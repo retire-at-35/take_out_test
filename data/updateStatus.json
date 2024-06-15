@@ -1,0 +1,22 @@
+[
+  {
+    "status": "1",
+    "code": "1"
+  },
+  {
+    "status": "2",
+    "code": "1"
+  },
+  {
+    "status": "a",
+    "code": "0"
+  },
+  {
+    "status": "-1",
+    "code": "0"
+  },
+  {
+    "status": "",
+    "code": "0"
+  }
+]

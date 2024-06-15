@@ -1,0 +1,42 @@
+[
+  {
+    "page":"1",
+    "pageSize": "10",
+    "name": "米饭",
+    "categoryId": "27",
+    "status": "1",
+    "total": "1"
+  },
+  {
+    "page":"",
+    "pageSize": "",
+    "name": "面条",
+    "categoryId": "",
+    "status": "",
+    "total": "0"
+  },
+  {
+    "page":"",
+    "pageSize": "",
+    "name": "",
+    "categoryId": "99",
+    "status": "",
+    "total": "0"
+  },
+  {
+    "page":"",
+    "pageSize": "",
+    "name": "",
+    "categoryId": "",
+    "status": "1",
+    "total": "6"
+  },
+  {
+    "page":"",
+    "pageSize": "",
+    "name": "",
+    "categoryId": "",
+    "status": "",
+    "total": ""
+  }
+]
